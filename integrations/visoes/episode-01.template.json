@@ -8,7 +8,7 @@
   "subtitles": true,
   "shots": [
     {"id": "01", "file": "episode-01/shots/01.png", "description": "Elias desperta no apartamento, sem olhar para a câmera"},
-    {"id": "02", "file": "episode-01/shots/02.mp4", "description": "Mão procura o telefone ao lado da cama"},
+    {"id": "02", "file": "episode-01/shots/02.png", "description": "Mão procura o telefone ao lado da cama"},
     {"id": "03", "file": "episode-01/shots/03.mp4", "description": "Deslocamento urbano matinal sem marcas reconhecíveis"},
     {"id": "04", "file": "episode-01/shots/04.mp4", "description": "Rosto de Elias refletido na janela durante a viagem"},
     {"id": "05", "file": "episode-01/shots/05.mp4", "description": "Rotina de trabalho em detalhes sem logotipos"},
