@@ -1,0 +1,21 @@
+{
+  "episode_id": "VISOES-S01E01",
+  "title": "O dia repetido",
+  "script": "Você acordou, pegou o telefone e atravessou mais um dia cumprindo tudo o que precisava. No fim, sobrou a impressão de que não esteve presente em nenhuma parte dele. Talvez o problema não seja falta de tempo. Talvez você tenha parado de escolher o que merece sua atenção. Antes de dormir, escreva uma coisa que você quer viver de propósito amanhã.",
+  "expected_narration_seconds": 43,
+  "clip_duration": 5,
+  "voice_name": "pt-BR-AntonioNeural",
+  "subtitles": true,
+  "shots": [
+    {"id": "01", "file": "episode-01/shots/01.png", "description": "Elias desperta no apartamento, sem olhar para a câmera"},
+    {"id": "02", "file": "episode-01/shots/02.mp4", "description": "Mão procura o telefone ao lado da cama"},
+    {"id": "03", "file": "episode-01/shots/03.mp4", "description": "Deslocamento urbano matinal sem marcas reconhecíveis"},
+    {"id": "04", "file": "episode-01/shots/04.mp4", "description": "Rosto de Elias refletido na janela durante a viagem"},
+    {"id": "05", "file": "episode-01/shots/05.mp4", "description": "Rotina de trabalho em detalhes sem logotipos"},
+    {"id": "06", "file": "episode-01/shots/06.mp4", "description": "Elias chega em casa, deposita objetos sobre a mesa"},
+    {"id": "07", "file": "episode-01/shots/07.png", "description": "Elias diante do telefone virado para baixo e do caderno"},
+    {"id": "08", "file": "episode-01/shots/08.mp4", "description": "Abre uma página vazia do caderno"},
+    {"id": "09", "file": "episode-01/shots/09.mp4", "description": "Escreve uma ação concreta para amanhã"},
+    {"id": "10", "file": "episode-01/shots/10.mp4", "description": "Close sereno, olhar breve para a câmera e encerramento"}
+  ]
+}
